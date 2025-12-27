@@ -1,8 +1,9 @@
 # Hi, I'm Muhammad Rabiul Hossain 👋
 
 🎓 Studying MSc in Computer Science & Engineering major Data Science
+
 📊 Aspiring Data Scientist | Machine Learning Enthusiast  
-🧠 NLP • Data Analysis   
+ 
 📄 IEEE Published Author  
 
 ---
@@ -34,8 +35,8 @@ I am actively improving my research and analytical skills.
 
 ## 📫 Connect With Me
 - 🔗 LinkedIn: www.linkedin.com/in/muhammad-rabiul-hossain/
-- 🔗 Google Scholar: scholar.google.com/citations?user=cN5BmM4AAAAJ&hl=en&authuser=2  
-- 💻 GitHub: github.com/m-rabiul-hossain  
+- 🔗 Google Scholar: www.scholar.google.com/citations?user=cN5BmM4AAAAJ&hl=en&authuser=2  
+- 💻 GitHub: www.github.com/m-rabiul-hossain  
 - 📧 Email: m.rabiul.hossain1@gmail.com
 
 
